@@ -11,7 +11,7 @@ import com.w2a.pages.ZohoAppPage;
 public class ZohoLoginTest {
 
 	public static void main(String[] args) throws InterruptedException {
-
+//Implementing the eGit plugin.
 		ZohoHomePage home = new ZohoHomePage();
 		//home.goToLogin();
 		
