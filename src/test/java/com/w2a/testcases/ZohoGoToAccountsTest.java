@@ -11,7 +11,9 @@ public class ZohoGoToAccountsTest {
 	public void GoToAccountsTest() {
 		
 		ZohoAppPage app = new ZohoAppPage();
+		//clicks on the CRM button.
 		app.goToCRM();
+		//Clicks on the Accounts tab on the main menu bar.
 		ZohoBasePage.menu.gotoAccounts();
 		
 	}

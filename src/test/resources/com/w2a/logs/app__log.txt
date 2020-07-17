@@ -1,16 +1,16 @@
-INFO    2020-07-17 14:09:59,161 [main] com.w2a.base.ZohoBasePage  - Logger loaded
-INFO    2020-07-17 14:09:59,162 [main] com.w2a.base.ZohoBasePage  - Config file loaded!!!
-INFO    2020-07-17 14:09:59,162 [main] com.w2a.base.ZohoBasePage  - OR file loaded!!!
-INFO    2020-07-17 14:10:03,321 [main] com.w2a.base.ZohoBasePage  - Chrome launched!!!
-INFO    2020-07-17 14:10:05,038 [main] com.w2a.base.ZohoBasePage  - Navigated to: https://www.zoho.com/
-INFO    2020-07-17 14:10:08,915 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: loginlink_CSS
-INFO    2020-07-17 14:10:09,251 [main] com.w2a.base.ZohoBasePage  - Typed in: email_CSS the value as highlandasia@gmail.com
-INFO    2020-07-17 14:10:09,364 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: nextbtn_CSS
-INFO    2020-07-17 14:10:09,656 [main] com.w2a.base.ZohoBasePage  - Typed in: password_CSS the value as Jptjpt@123
-INFO    2020-07-17 14:10:09,718 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: signinbtn_CSS
-INFO    2020-07-17 14:10:18,448 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: CRM_CSS
-INFO    2020-07-17 14:10:18,634 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: accounts_CSS
-INFO    2020-07-17 14:10:19,945 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: createaccount_CSS
-INFO    2020-07-17 14:10:20,868 [main] com.w2a.base.ZohoBasePage  - Typed in: accountname_ID the value as Jake
-INFO    2020-07-17 14:10:21,048 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: icon_ID
-INFO    2020-07-17 14:10:25,312 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: signout_XPATH
+INFO    2020-07-17 15:12:31,957 [main] com.w2a.base.ZohoBasePage  - Logger loaded
+INFO    2020-07-17 15:12:31,958 [main] com.w2a.base.ZohoBasePage  - Config file loaded!!!
+INFO    2020-07-17 15:12:31,959 [main] com.w2a.base.ZohoBasePage  - OR file loaded!!!
+INFO    2020-07-17 15:12:36,086 [main] com.w2a.base.ZohoBasePage  - Chrome launched!!!
+INFO    2020-07-17 15:12:38,270 [main] com.w2a.base.ZohoBasePage  - Navigated to: https://www.zoho.com/
+INFO    2020-07-17 15:12:41,742 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: loginlink_CSS
+INFO    2020-07-17 15:12:42,105 [main] com.w2a.base.ZohoBasePage  - Typed in: email_CSS the value as highlandasia@gmail.com
+INFO    2020-07-17 15:12:42,194 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: nextbtn_CSS
+INFO    2020-07-17 15:12:42,483 [main] com.w2a.base.ZohoBasePage  - Typed in: password_CSS the value as Jptjpt@123
+INFO    2020-07-17 15:12:42,550 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: signinbtn_CSS
+INFO    2020-07-17 15:12:51,881 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: CRM_CSS
+INFO    2020-07-17 15:12:52,164 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: accounts_CSS
+INFO    2020-07-17 15:12:53,305 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: createaccount_CSS
+INFO    2020-07-17 15:12:54,208 [main] com.w2a.base.ZohoBasePage  - Typed in: accountname_ID the value as Jake
+INFO    2020-07-17 15:12:54,415 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: icon_ID
+INFO    2020-07-17 15:13:00,826 [main] com.w2a.base.ZohoBasePage  - Clicked on the element: signout_XPATH
