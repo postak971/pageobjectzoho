@@ -11,10 +11,10 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.testng.annotations.DataProvider;
 
-import com.w2a.pages.ZohoHomePage;
+import com.w2a.base.ZohoBasePage;
 
 
-public class ZohoUtilities extends ZohoHomePage{
+public class ZohoUtilities extends ZohoBasePage{
 	public static String screenshotPath;
 	public static String screenshotName;
 
@@ -60,7 +60,7 @@ public class ZohoUtilities extends ZohoHomePage{
 		return data;
 	}
 
-	public static boolean isTestRunnable(String testName, ExcelReader excel) {
+	public static boolean isTestRunnable(String testName) {
 		String sheetName="test_suite";
 		int rows = excel.getRowCount(sheetName);		
 		
