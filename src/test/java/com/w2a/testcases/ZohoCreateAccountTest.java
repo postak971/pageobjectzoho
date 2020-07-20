@@ -34,7 +34,7 @@ ZohoCreateAccountPage cap = new ZohoCreateAccountPage();
  * SkipException("Skipping the test as the run mode in testdata is set to No");
  * }
  */
-//clicks on the crete Account + button.
+//clicks on the create Account + button.
 		cap.createAccount(data.get("accountname"));
 		
 	}
